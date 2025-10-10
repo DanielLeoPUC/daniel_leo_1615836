@@ -16,24 +16,24 @@ const obras = [{
   "descricaoCompleta": "O quadro do pintor holandês Vincent Van Gogh, concluído no início de novembro de 1888. Esta foi a única peça vendida pelo artista em vida.<br>&nbspO quadro foi adquirido em Bruxelas por 400 Francos, por Anna Boch. Van Gogh ficou sabendo do negócio por intermédio de seu irmão e mecenas Theo Van Gogh, em fevereiro de 1890.<br>&nbsp A Vinha Encarnada foi exibida pela primeira vez na mostra de Les XX, em 1890, em Bruxelas e vendida por 400 Francos belgas  para Anna Boch, uma pintora impressionista da Bélgica, membra do Les XX e colecionadora de arte. Anna era irmã de Eugène Boch, também pintor impressionista e amigo de Van Gogh, que havia pintado o retrato de Boch  em Arles, no outono de 1888.<br>&nbsp Assim como o Terraço do Café à Noite, foi adquirida pelo colecionador russo Sergei Shchukin. Veio a ser nacionalizada pelos bolcheviques junto com o resto da coleção de Sergei, a qual, eventualmente, foi para o Museu Pushkin de Belas Artes em Moscou.",
   "fotos": [
         {
-          "id": 1,
+          "id": 0,
           "autor": "Vicent Van Gog",
           "imagem": "img/Vangogh.jpg"
       
 
         },
         {
+          "id": 1,
+            "autor": "Vicent Van Gog",
+          "imagem": "img/noiteestrelada.jpg"
+        },
+        {
           "id": 2,
             "autor": "Vicent Van Gog",
           "imagem": "img/Vangogh.jpg"
         },
-        {
-          "id": 3,
-            "autor": "Vicent Van Gog",
-          "imagem": "img/Vangogh.jpg"
-        },
          {
-          "id": 4,
+          "id": 3,
           "autor": "Vicent Van Gog",
           "imagem": "img/Vangogh.jpg"
         }
