@@ -10,7 +10,7 @@ const obras = [{
     {
       "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -18,19 +18,19 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "75x93 cm",
+      "descricao": "75x93 cm",
       "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu Estatal de Belas Artes Pushkin",
+      "descricao": "Museu Estatal de Belas Artes Pushkin.",
       "imagem": "img/museu1.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
@@ -41,12 +41,12 @@ const obras = [{
   "titulo": "Os Doze girassóis numa jarra",
   "ano": "1888",
   "descricao": "Van Gogh pintou uma série de 11 quadros de girassóis (quatro em Paris e sete em Arles), que se tornaram algumas das suas obras mais icónicas, simbolizando para ele felicidade, gratidão, força e resistência.",
-  "descricaoCompleta": "Os Doze girassóis numa jarra é uma pintura do pintor holandês Vincent van Gogh. Após a chegada do pintor ao sul da França, estabelecendo-se em Arles, Van Gogh passou a utilizar efeitos de cores e de luz com mais intensidade. Doze Girassóis numa Jarra pode ser considerado o culminar de todo este efeito em na obra do artista.<br>&nbsp Finalizado em agosto de 1888, o quadro está hoje exposto na Neue Pinakothek, em Munique.<br>&nbsp  Atualmente, esta é uma das telas mais famosas do mundo. Tal sucesso e reconhecimento contrastam com a vida do seu autor, que sempre viveu à margem da sociedade. Ao longo de toda a trajetória de Van Gogh, o artista vendeu somente um quadro. Ele só foi reconhecido mundialmente depois de sua morte.",
+  "descricaoCompleta": "Os Doze girassóis numa jarra é uma pintura do pintor holandês Vincent van Gogh. Após a chegada do pintor ao sul da França, estabelecendo-se em Arles, Van Gogh passou a utilizar efeitos de cores e de luz com mais intensidade. Doze Girassóis numa Jarra pode ser considerado o culminar de todo este efeito em na obra do artista.<br>&nbsp Finalizado em agosto de 1888, o quadro está hoje exposto no Museu National Gallery - Londres.<br>&nbsp  Atualmente, esta é uma das telas mais famosas do mundo. Tal sucesso e reconhecimento contrastam com a vida do seu autor, que sempre viveu à margem da sociedade. Ao longo de toda a trajetória de Van Gogh, o artista vendeu somente um quadro. Ele só foi reconhecido mundialmente depois de sua morte.",
   "fotos": [
     {
       "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -54,19 +54,19 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "92,2x73 cm",
-       "imagem": "img/medidas.png"
+      "descricao": "92,2x73 cm",
+      "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu National Gallery - Londres",
-      "imagem": "img/avinha.jpg"
+      "descricao": "Museu National Gallery - Londres.",
+      "imagem": "img/museu2.jpg"
     },
     {
-       "id": 3,
+      "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
@@ -77,12 +77,12 @@ const obras = [{
   "titulo": "Noite Estrelada Sobre o Ródano",
   "ano": "1889",
   "descricao": "  A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provence, pouco antes do nascer do sol, com a adição de um vilarejo idealizado pelo artista.<br>&nbsp; A tela faz parte da coleção permanente do Museu de Arte Moderna de Nova Iorque desde 1941.",
-  "descricaoCompleta": " Noite Estrelada Sobre o Ródano é uma pintura de 1888 do pintor holandês Vincent van Gogh.O quadro foi pintado após a sua mudança para Arles, no sul da França, nove meses antes de ser hospitalizado e dois anos antes de cometer suicídio. Em Arles, Van Gogh produziu outras obras famosas, como Quarto em Arles e Terraço do Café à Noite.<br>&nbsp;Atualmente a obra está exposta no Musée d'Orsay, em Paris, França. Ela foi exposta pela primeira vez em 1889 Salon des Artistes Independants.<br>&nbsp;A obra retrata a paisagem vista à noite à beira do Ródano, um importante rio europeu.",
-  "fotos":  [
+  "descricaoCompleta": " Noite Estrelada Sobre o Ródano é uma pintura de 1888 do pintor holandês Vincent van Gogh.O quadro foi pintado após a sua mudança para Arles, no sul da França, nove meses antes de ser hospitalizado e dois anos antes de cometer suicídio. Em Arles, Van Gogh produziu outras obras famosas, como Quarto em Arles e Terraço do Café à Noite.<br>&nbsp;Atualmente a obra está exposta no Museu de Arte Moderna(MoMA), Nova Iorque. Ela foi exposta pela primeira vez em 1889 Salon des Artistes Independants.<br>&nbsp;A obra retrata a paisagem vista à noite à beira do Ródano, um importante rio europeu.",
+  "fotos": [
     {
       "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -90,19 +90,19 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "73x92 cm",
-       "imagem": "img/medidas.png"
+      "descricao": "73x92 cm",
+      "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu de Arte Moderna(MoMA), Nova Iorque - EUA",
-      "imagem": "img/avinha.jpg"
+      "descricao": "Museu de Arte Moderna(MoMA), Nova Iorque - EUA.",
+      "imagem": "img/museu3.jpg"
     },
     {
-       "id": 3,
+      "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
@@ -116,9 +116,9 @@ const obras = [{
   "descricaoCompleta": "O pintor holandês pós-impressionista Vincent van Gogh pintou um autorretrato em óleo sobre tela em setembro de 1889. A obra, que pode ter sido o último autorretrato de Van Gogh, foi pintada pouco antes de ele deixar Saint-Rémy-de-Provence, no sul da França. A pintura está agora no Musée d'Orsay, em Paris.<br>&nbsp;Este autorretrato foi um dos cerca de 32 produzidos ao longo de um período de 10 anos, e estes foram uma parte importante de seu trabalho como pintor.Ele pintou a si mesmo porque muitas vezes não tinha dinheiro para pagar modelos. Ele levou a pintura com ele para Auvers-sur-Oise, perto de Paris, onde a mostrou ao Dr. Paul Gachet, que a achou maravilhosa.<br>&nbsp; Os historiadores da arte estão divididos sobre se esta pintura ou o Autorretrato sem barba é o autorretrato final de Van Gogh. Os historiadores de arte Ingo F. Walther e Jan Hulsker consideram que esta é a última, com Hulsker considerando que foi pintada em Arles após a internação de Van Gogh no hospital depois de mutilar sua orelha, enquanto Ronald Pickvance acha que Autorretrato sem barba foi a pintura posterior",
   "fotos": [
     {
-     "id": 0,
+      "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -126,19 +126,19 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "65x54 cm",
-       "imagem": "img/medidas.png"
+      "descricao": "65x54 cm",
+      "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu: Músee d´Orsay - Paris",
-      "imagem": "img/avinha.jpg"
+      "descricao": "Museu: Músee d´Orsay - Paris.",
+      "imagem": "img/museu4.png"
     },
     {
-   "id": 3,
+      "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
@@ -152,9 +152,9 @@ const obras = [{
   "descricaoCompleta": "Vaso com Íris Contra um Fundo Amarelo é uma pintura a óleo sobre tela feita em 1889 pelo pintor Vincent Van Gogh . Está preservada no Museu Van Gogh em Amsterdã . É uma das obras feitas enquanto ele estava internado na clínica psiquiátrica de Saint-Rémy, uma cidade perto de Arles. A obra está localizada no museu Van Gogh em Amsterdã.<br>&nbsp;Van Gogh tem uma obra semelhante, com o mesmo nome, mas também conhecida como Vaso com Íris , localizada no Metropolitan Museum of Art, em Nova York .<br>&nbsp;A pintura criada em  1890 pertence a série de pinturas sobre flores ( Vaso com Centáureas e Papoulas , Vaso com Rosas Cor-de-Rosa , Vaso Japonês com Rosas e Anêmonas ) pode-se perceber a influência das gravuras japonesas , tema que o fascinou durante a maior parte de sua trajetória artística e que foi muito popular entre a sociedade de sua época, o que o levou a eliminar as sombras e ocupar grande parte da pintura com flores densas e seus caules grossos. ",
   "fotos": [
     {
-     "id": 0,
+      "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -162,19 +162,19 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "73,5x92 cm",
-       "imagem": "img/medidas.png"
+      "descricao": "73,5x92 cm",
+      "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu Van Gogh - Amsterdan",
-      "imagem": "img/avinha.jpg"
+      "descricao": "Museu Van Gogh - Amsterdan.",
+      "imagem": "img/museu5.jpg"
     },
     {
-       "id": 3,
+      "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
@@ -186,11 +186,11 @@ const obras = [{
   "ano": "1885",
   "descricao": " Os comedores de batata é um quadro do pintor Vincent van Gogh, terminado em abril de 1885.<br>&nbsp;o retrato de uma época, da classe trabalhadora e sua base alimentar.",
   "descricaoCompleta": "Os Comedores de Batatas é uma pintura a óleo sobre tela feita em 1885 pelo pintor holandês Vincent van Gogh. A obra está localizada no Museu Van Gogh em Amsterdã. A pintura retrata uma família de camponeses comendo batatas, e é considerada uma das obras mais importantes do período inicial de Van Gogh na Holanda. A obra foi inspirada por um esboço feito por Van Gogh em 1883, durante sua estadia em Nuenen, onde ele morava com seus pais e trabalhava como pastor.<br>&nbsp;Van Gogh queria mostrar a vida difícil dos camponeses e a importância da batata como alimento básico para eles. Ele usou cores escuras e tons terrosos para criar uma atmosfera sombria e realista, enfatizando a dureza da vida rural. A pintura foi criticada na época por sua representação crua e não idealizada dos camponeses, mas hoje é considerada uma obra-prima do pós-impressionismo e um exemplo do compromisso social de Van Gogh.",
-  "fotos":  [
+  "fotos": [
     {
       "id": 0,
       "titulo": "Autor",
-      "descricao": "Vincent Van Gogh",
+      "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
       "imagem": "img/Vangogh.jpg"
 
 
@@ -198,85 +198,24 @@ const obras = [{
     {
       "id": 1,
       "titulo": "Medidas",
-    "descricao": "82x114 cm",
+      "descricao": "82x114 cm",
       "imagem": "img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
-     "descricao": "Museu Van Gogh - Amsterdam",
-      "imagem": "img/avinha.jpg"
+      "descricao": "Museu Van Gogh - Amsterdam.",
+      "imagem": "img/museu5.jpg"
     },
     {
-       "id": 3,
+      "id": 3,
       "titulo": "Técnica",
-      "descricao": "Óleo sobre tela",
+      "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
       "imagem": "img/tecnica.jpg"
     }
   ]
 }
 ];
-
-function CarregarLogo() {
-  const logo = document.getElementById("logo");
-  let strTexto = "";
-
-  strTexto +=
-    `<div id="container-logo">
-    <img src="img/logoVanGog.png"></img>
-    </div>`
-  logo.innerHTML = strTexto;
-
-}
-
-CarregarLogo();
-const carrousel = [{
-  "id": 1,
-  "imagem": "img/noiteestrelada.jpg",
-  "titulo": "Noite estrelada"
-
-}]
-
-
-function carregarCarrousel() {
-  const carrousel = document.getElementById("carrousel");
-
-  let strTexto = "";
-
-  strTexto = `
- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="img/ceu.png" alt="Céu">
-    </div>
-     <div class="carousel-item">
-       <img class="d-block w-100" src="img/avinha2.jpg" alt="A vinha ">
-    </div>
-    <div class="carousel-item">
-       <img class="d-block w-100" src="img/ceu.png" alt=" O quarto ">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Anterior</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Próximo</span>
-  </a>
-</div>`
-
-  carrousel.innerHTML = strTexto;
-}
-carregarCarrousel();
-
-
-
 
 
 
@@ -301,35 +240,6 @@ carregarCards();
 
 
 
-function criarFooter() {
-  const footer = document.getElementById("footer")
-  let strTexto = "";
-  strTexto += `
- <article class="col-12 col-sm-12 col-md-4 col-lg-6 col-xl-4  ">
- <h3>Sobre mim</h3>
- <p>&nbsp;Me chamo Daniel Leo, tenho 23 anos e atualmente moro em Ribeirão das Neves.<br>&nbsp; No momento estou cursando o primeiro periodo de  ADS ( Análize e desenvolvimento de sistemas ) na PUC-São Gabriel.
- <br>&nbsp;Uma das minhas paixões são obras artisticas, especialmente as do pintor Van Gogh que são as minhas favoritas. Nesse site você conhecerá um pouco de suas obras mais fantásticas.<br> Espero que goste!</p>
- </article>
-  <article class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
-  <img src="img/20210215_103822-01.jpeg"></img>
-  <p id ="icons"><strong>Redes Sociais:</strong>
-   <i class="fab fa-facebook"></i>
-      <i class="fab fa-github">
-      <i class="fab fa-linkedin"></i></i></p>
-   
-  </article>
-<article class="col-12 col-sm-12 col-md-2 col-lg-6 col-xl-4">
-   <h3>Autoria</h3>
-   <p><strong>Aluno:</strong>Daniel Junio Léo</p>
-   <p><strong>Curso:</strong>Análise e desenvolvimento de sistemas</p>
-   <p><strong>Turno:</strong>Noite</p>
-    </article>
-
- `
-  footer.innerHTML = strTexto;
-}
-criarFooter();
-
 
 function buscarObras(id) {
   window.location.href = `detalhes.html?id=${id}`;
@@ -342,7 +252,8 @@ function buscarDetalhes() {
 
   const obra = obras.find(function (a) {
     return a.id == id;
-  });
+  }
+);
   const telaDetalhes = document.getElementById("teladetalhes");
 
   if (obra) {
@@ -353,15 +264,16 @@ function buscarDetalhes() {
         <p><strong>Descrição:<br></strong>${obra.descricao}</p>
         <p><strong>Ano de Criação:<br></strong> ${obra.ano}</p>
         <p><strong>História:<br></strong>${obra.descricaoCompleta}</p>
-        <a href="index.html"><button id="btnbtn">Home</button>
       </div>
     `;
     CarregarEntidadeSecundaria(obra.fotos);
+    CarregarLogo();
 
   } else {
     telaDetalhes.innerHTML = `<p>ERRO 404 página não encontrada</p>`;
   }
 }
+
 
 
 function CarregarEntidadeSecundaria(fotos) {
@@ -372,7 +284,7 @@ function CarregarEntidadeSecundaria(fotos) {
 
     strTexto += `
       
-       <article class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 text-center mt-10 p-2">
+       <article class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 text-center mt-10 p-2">
         <img src="${fotos[i].imagem}" alt="${fotos[i].titulo}" class="img-fluid mb-2">
         <h6>${fotos[i].titulo}</h6>
        <p>${fotos[i].descricao}</p>
@@ -380,6 +292,110 @@ function CarregarEntidadeSecundaria(fotos) {
   }
   entidadeSecundaria.innerHTML = strTexto;
 }
+
+
+function CarregarLogo() {
+  const logo = document.getElementById("logo");
+  let strTexto = "";
+
+  strTexto +=
+    `<div id="container-logo">
+    <a href="index.html"><img src="img/logoVanGog.png"></img><href>
+    </div>`
+  logo.innerHTML = strTexto;
+
+}
+
+CarregarLogo();
+
+
+var carrousel = [ {
+  "id": 0,
+  "imagem": "img/ceu.png",
+  "titulo": "Noite estrelada"
+
+},
+{
+  "id": 1,
+  "imagem": "img/1000025574.png",
+  "titulo":"Girassois"
+
+},
+{
+  "id": 2,
+  "imagem": "img/templateAvinha.png",
+  "titulo": "A vinha"
+
+}]
+
+
+function carregarCarrousel() {
+  const carrousel = document.getElementById("carrousel");
+
+  let strTexto = "";
+
+  strTexto = `
+ <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <a href="detalhes.html?id=2"><img class="d-block w-100" src="img/ceu.png" alt="Céu"></a>
+    </div>
+     <div class="carousel-item">
+       
+       <a href="detalhes.html?id=1"><img class="d-block w-100" src="img/1000025574.png" alt="giracois"></a>
+    </div>
+    <div class="carousel-item">
+        <a href="detalhes.html?id=0"><img class="d-block w-100" src="img/templateAvinha.png" alt="A vinha "></a>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Anterior</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Próximo</span>
+  </a>
+</div>`
+
+  carrousel.innerHTML = strTexto;
+}
+carregarCarrousel();
+
+
+
+function criarFooter() {
+  const footer = document.getElementById("footer")
+  let strTexto = "";
+  strTexto += `
+ <article class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-8  ">
+ <h3>Sobre mim</h3>
+ <p>&nbsp;Me chamo Daniel Leo, tenho 23 anos e atualmente moro em Ribeirão das Neves.<br>&nbsp; No momento estou cursando o primeiro periodo de  ADS ( Análize e desenvolvimento de sistemas ) na PUC-São Gabriel.
+ <br>&nbsp;Uma das minhas paixões são obras artisticas, especialmente as do pintor Van Gogh que são as minhas favoritas. Nesse site você conhecerá um pouco de suas obras mais fantásticas.<br> Espero que goste!</p>
+ </article>
+  <article class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
+  <img src="img/20210215_103822-01.jpeg"></img>
+   <p><strong>Aluno:</strong>Daniel Junio Léo<br>
+   <strong>Curso:</strong>Análise e desenvolvimento de sistemas<br>
+   <strong>Turno:</strong>Noite</p>
+  <p id ="icons"><h6><strong>Redes Sociais:</strong><h6>
+   <i class="fab fa-facebook"></i>
+      <i class="fab fa-github">
+      <i class="fab fa-linkedin"></i></i></p>
+      </article>
+     
+   
+
+ `
+  footer.innerHTML = strTexto;
+}
+criarFooter();
+
 
 
 

@@ -16,6 +16,18 @@ body {
 
 
  /* header inicio */
+ #container-logo img{
+    max-inline-size: 180px;
+    margin-bottom: 200px;
+    
+   
+    
+ }
+  #container-logo{
+    width: 100%;
+    height: 100px;
+    background-color:rgba(255, 255, 255, 0.904);
+ }
 
 
 header a :hover {
@@ -33,6 +45,12 @@ header input:hover, li:hover{
  /* header fim */
 
     /* main inicio */
+
+ .carousel-item{
+    height: 300px;
+    object-fit: fill;
+    margin: 0;
+ }
 
 
 section h1:hover, h2:hover, h4:hover,h4:hover{
@@ -81,27 +99,6 @@ article  img {
     border: 1px solid white;
    
 }
-#btnbtn{
-     width: 150px;
-     height: 60px;
-    background-color:rgba(255, 255, 255, 0.377);
-    border: 1px solid #225bc5ff;
-    border-radius: 5px;
-    padding: 10px;
-    cursor:pointer;
-    transition: 0.5s;
-    margin-bottom: 50px;
-   
-    
-    
-    
-}
-#btnbtn:hover{
-     background-color:rgba(233, 233, 38, 0.856);
-    color: white;
-    border: 1px solid white;
-   
-}
 
 
   .container-fluid  div{
@@ -125,9 +122,6 @@ main article:hover {
 }
 
 
-
-
-
     /* main fim */
 
 
@@ -140,29 +134,26 @@ footer {
 
 }
 
-#footer img {
-    border-radius: 50%;
-    float: ;
- 
+#footer img{
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    float: left;
+
 }
+
+#footer p {
+     
+     text-align: left;
+
+}
+#footer h6 {
+display: inline-block;
+ text-align: left;
+ float: left;
+}
+
 
 
  /* footer fim */
 
- .carousel-item{
-    height: 300px;
-    object-fit: fill;
-    margin: 0;
- }
- #container-logo{
-    width: 100%;
-    height: 50px;
-    box-sizing: border-box;
-    background-color:rgba(255, 255, 255, 0.904);
- }
- #container-logo img{
-    max-inline-size: 90px;
-   
-    
- }
- 
