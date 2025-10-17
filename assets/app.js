@@ -1,7 +1,7 @@
 const obras = [{
 
   "id": 0,
-  "imagem": "img/avinha.jpg",
+  "imagem": "assets/img/avinha.jpg",
   "titulo": "A Vinha Encarnada",
   "ano": "1888",
   "descricao": " A Vinha Encarnada é um quadro do pintor holandês Vincent Van Gogh, concluído no início de novembro de 1888.<br>&nbsp; Esta foi a única peça vendida pelo artista em vida. O quadro foi adquirido em Bruxelas por 400 Francos, por Anna Boch.",
@@ -11,7 +11,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -19,25 +19,25 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "75x93 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu Estatal de Belas Artes Pushkin.",
-      "imagem": "img/museu1.jpg"
+      "imagem": "assets/img/museu1.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 },
 {
   "id": 1,
-  "imagem": "img/giracois.jpg",
+  "imagem": "assets/img/giracois.jpg",
   "titulo": "Os Doze girassóis numa jarra",
   "ano": "1888",
   "descricao": "Van Gogh pintou uma série de 11 quadros de girassóis (quatro em Paris e sete em Arles), que se tornaram algumas das suas obras mais icónicas, simbolizando para ele felicidade, gratidão, força e resistência.",
@@ -47,7 +47,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -55,25 +55,25 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "92,2x73 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu National Gallery - Londres.",
-      "imagem": "img/museu2.jpg"
+      "imagem": "assets/img/museu2.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 },
 {
   "id": 2,
-  "imagem": "img/noiteestrelada.jpg",
+  "imagem": "assets/img/noiteestrelada.jpg",
   "titulo": "Noite Estrelada Sobre o Ródano",
   "ano": "1889",
   "descricao": "  A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provence, pouco antes do nascer do sol, com a adição de um vilarejo idealizado pelo artista.<br>&nbsp; A tela faz parte da coleção permanente do Museu de Arte Moderna de Nova Iorque desde 1941.",
@@ -83,7 +83,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -91,25 +91,25 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "73x92 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu de Arte Moderna(MoMA), Nova Iorque - EUA.",
-      "imagem": "img/museu3.jpg"
+      "imagem": "assets/img/museu3.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 },
 {
   "id": 3,
-  "imagem": "img/autoretrato.jpg",
+  "imagem": "assets/img/autoretrato.jpg",
   "titulo": "Autorretrato",
   "ano": "1889",
   "descricao": " O Autorretrato com Chapéu de Feltro é um óleo sobre tela, pintado por Vincent van Gogh em 1888.<br>&nbsp; Van Gogh pintou esta tela no inverno europeu de 1887-1888, quando viveu em Paris por dois anos.",
@@ -119,7 +119,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -127,25 +127,25 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "65x54 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu: Músee d´Orsay - Paris.",
-      "imagem": "img/museu4.png"
+      "imagem": "assets/img/museu4.png"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 },
 {
   "id": 4,
-  "imagem": "img/vaso.jpg",
+  "imagem": "assets/img/vaso.jpg",
   "titulo": "Vaso com Iríses",
   "ano": "1890 ",
   "descricao": "Vaso com íris contra um fundo amarelo é uma pintura a óleo sobre tela feita em 1889 pelo pintor Vincent Van Gogh. Está preservado no Museu Van Gogh em Amsterdã.<br> &nbsp; É um dos trabalhos realizados enquanto ele estava internado na clínica psiquiátrica de Saint-Rémy, cidade próxima a Arles.",
@@ -155,7 +155,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -163,25 +163,25 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "73,5x92 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu Van Gogh - Amsterdan.",
-      "imagem": "img/museu5.jpg"
+      "imagem": "assets/img/museu5.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 },
 {
   "id": 5,
-  "imagem": "img/oscomedores.jpg",
+  "imagem": "assets/img/oscomedores.jpg",
   "titulo": "Os Comedores de Batatas",
   "ano": "1885",
   "descricao": " Os comedores de batata é um quadro do pintor Vincent van Gogh, terminado em abril de 1885.<br>&nbsp;o retrato de uma época, da classe trabalhadora e sua base alimentar.",
@@ -191,7 +191,7 @@ const obras = [{
       "id": 0,
       "titulo": "Autor",
       "descricao": "<strong>Vincent van Gogh: </strong> Vincent van Gogh foi um pintor holandês pós-impressionista, nascido em 30 de março de 1853, em Zundert, Holanda, e falecido em 29 de julho de 1890, em Auvers-sur-Oise, França. Ele é considerado um dos maiores artistas da história da arte ocidental, conhecido por sua produção intensa, que incluiu mais de 800 pinturas a óleo em apenas uma década.",
-      "imagem": "img/Vangogh.jpg"
+      "imagem": "assets/img/Vangogh.jpg"
 
 
     },
@@ -199,19 +199,19 @@ const obras = [{
       "id": 1,
       "titulo": "Medidas",
       "descricao": "82x114 cm",
-      "imagem": "img/medidas.png"
+      "imagem": "assets/img/medidas.png"
     },
     {
       "id": 2,
       "titulo": "Local",
       "descricao": "Museu Van Gogh - Amsterdam.",
-      "imagem": "img/museu5.jpg"
+      "imagem": "assets/img/museu5.jpg"
     },
     {
       "id": 3,
       "titulo": "Técnica",
       "descricao": "<strong>Óleo sobre tela:</strong> Óleo sobre Tela é uma técnica de pintura que consiste em utilizar tinta a óleo sobre uma superfície de tela, geralmente feita de algodão ou linho. Esta técnica é uma das mais tradicionais e populares no mundo da arte, sendo amplamente utilizada por artistas ao longo da história.",
-      "imagem": "img/tecnica.jpg"
+      "imagem": "assets/img/tecnica.jpg"
     }
   ]
 }
@@ -300,7 +300,7 @@ function CarregarLogo() {
 
   strTexto +=
     `<div id="container-logo">
-    <a href="index.html"><img src="img/logoVanGog.png"></img><href>
+    <a href="index.html"><img src="assets/img/logoVanGog.png"></img><href>
     </div>`
   logo.innerHTML = strTexto;
 
@@ -311,21 +311,21 @@ CarregarLogo();
 
 var carrousel = [ {
   "id": 0,
-  "imagem": "img/ceu.png",
+  "imagem": "assets/img/ceu.png",
   "titulo": "Noite estrelada",
   "descricao": " A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provenc."
 
 },
 {
   "id": 1,
-  "imagem": "img/1000025574.png",
+  "imagem": "assets/img/1000025574.png",
   "titulo":"Girassois",
   "descricao": " As obras retratam girassóis em diferentes estágios de vida, desde botões até flores murchas. Van Gogh usou cores vibrantes e pinceladas expressivas para capturar a beleza e a fragilidade das flores."
 
 },
 {
   "id": 2,
-  "imagem": "img/templateAvinha.png",
+  "imagem": "assets/img/templateAvinha.png",
   "titulo": "A vinha encarnada",
   "descricao": " A obra retrata uma vinha em um campo, com uvas maduras penduradas nas videiras. Van Gogh usou cores vibrantes e pinceladas expressivas para capturar a beleza e a riqueza da natureza."
 
@@ -380,7 +380,7 @@ const foot = {
   "nome": "Daniel Junio Léo",
   "curso": "Análise e desenvolvimento de sistemas",
   "turno": "Noite",
-  "imagem": "img/20210215_103822-01.jpeg"
+  "imagem": "assets/img/20210215_103822-01.jpeg"
 }
 function criarFooter() {
   const f = document.getElementById("footer")
