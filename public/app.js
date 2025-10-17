@@ -330,7 +330,7 @@ var carrousel = [ {
 
 
 function carregarCarrousel() {
-  const carrousel = document.getElementById("carrousel");
+  const car = document.getElementById("carrousel");
 
   let strTexto = "";
 
@@ -343,14 +343,14 @@ function carregarCarrousel() {
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <a href="detalhes.html?id=2"><img class="d-block w-100" src="img/ceu.png" alt="Céu"></a>
+      <a href="detalhes.html?id=2"><img class="d-block w-100" src="${carrousel[0].imagem}" alt="${carrousel[0].titulo}"></a>
     </div>
      <div class="carousel-item">
-       
-       <a href="detalhes.html?id=1"><img class="d-block w-100" src="img/1000025574.png" alt="giracois"></a>
+
+       <a href="detalhes.html?id=1"><img class="d-block w-100" src="${carrousel[1].imagem}" alt="${carrousel[1].titulo}"></a>
     </div>
     <div class="carousel-item">
-        <a href="detalhes.html?id=0"><img class="d-block w-100" src="img/templateAvinha.png" alt="A vinha "></a>
+        <a href="detalhes.html?id=0"><img class="d-block w-100" src="${carrousel[2].imagem}" alt="${carrousel[2].titulo}"></a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -363,36 +363,40 @@ function carregarCarrousel() {
   </a>
 </div>`
 
-  carrousel.innerHTML = strTexto;
+  car.innerHTML = strTexto;
 }
 carregarCarrousel();
 
 
-
+const foot = {
+  "id": 0,
+  "sobre": "&nbsp;Me chamo Daniel Leo, tenho 23 anos e atualmente moro em Ribeirão das Neves.<br>&nbsp; No momento estou cursando o primeiro periodo de  ADS ( Análize e desenvolvimento de sistemas ) na PUC-São Gabriel.<br>&nbsp;Uma das minhas paixões são obras artisticas, especialmente as do pintor Van Gogh que são as minhas favoritas. Nesse site você conhecerá um pouco de suas obras mais fantásticas.<br> Espero que goste!",
+  "nome": "Daniel Junio Léo",
+  "curso": "Análise e desenvolvimento de sistemas",
+  "turno": "Noite",
+  "imagem": "img/20210215_103822-01.jpeg"
+}
 function criarFooter() {
-  const footer = document.getElementById("footer")
+  const f = document.getElementById("footer")
   let strTexto = "";
   strTexto += `
  <article class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-8  ">
  <h3>Sobre mim</h3>
- <p>&nbsp;Me chamo Daniel Leo, tenho 23 anos e atualmente moro em Ribeirão das Neves.<br>&nbsp; No momento estou cursando o primeiro periodo de  ADS ( Análize e desenvolvimento de sistemas ) na PUC-São Gabriel.
- <br>&nbsp;Uma das minhas paixões são obras artisticas, especialmente as do pintor Van Gogh que são as minhas favoritas. Nesse site você conhecerá um pouco de suas obras mais fantásticas.<br> Espero que goste!</p>
+ <p>&nbsp;${foot.sobre}</p>
  </article>
   <article class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-  <img src="img/20210215_103822-01.jpeg"></img>
-   <p><strong>Aluno:</strong>Daniel Junio Léo<br>
-   <strong>Curso:</strong>Análise e desenvolvimento de sistemas<br>
-   <strong>Turno:</strong>Noite</p>
+  <img src="${foot.imagem}"></img>
+   <p><strong>Aluno:</strong>${foot.nome}<br>
+   <strong>Curso:</strong>${foot.curso}<br>
+   <strong>Turno:</strong>${foot.turno}</p>
   <p id ="icons"><h6><strong>Redes Sociais:</strong><h6>
    <i class="fab fa-facebook"></i>
       <i class="fab fa-github">
       <i class="fab fa-linkedin"></i></i></p>
       </article>
      
-   
-
  `
-  footer.innerHTML = strTexto;
+  f.innerHTML = strTexto;
 }
 criarFooter();
 
