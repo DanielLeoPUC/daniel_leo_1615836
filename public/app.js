@@ -312,19 +312,22 @@ CarregarLogo();
 var carrousel = [ {
   "id": 0,
   "imagem": "img/ceu.png",
-  "titulo": "Noite estrelada"
+  "titulo": "Noite estrelada",
+  "descricao": " A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provenc."
 
 },
 {
   "id": 1,
   "imagem": "img/1000025574.png",
-  "titulo":"Girassois"
+  "titulo":"Girassois",
+  "descricao": " As obras retratam girassóis em diferentes estágios de vida, desde botões até flores murchas. Van Gogh usou cores vibrantes e pinceladas expressivas para capturar a beleza e a fragilidade das flores."
 
 },
 {
   "id": 2,
   "imagem": "img/templateAvinha.png",
-  "titulo": "A vinha"
+  "titulo": "A vinha encarnada",
+  "descricao": " A obra retrata uma vinha em um campo, com uvas maduras penduradas nas videiras. Van Gogh usou cores vibrantes e pinceladas expressivas para capturar a beleza e a riqueza da natureza."
 
 }]
 
@@ -343,14 +346,17 @@ function carregarCarrousel() {
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
+      <div class="text-center"><h1>${carrousel[0].titulo}</h1><p>${carrousel[0].descricao}</p></div>
       <a href="detalhes.html?id=2"><img class="d-block w-100" src="${carrousel[0].imagem}" alt="${carrousel[0].titulo}"></a>
-    </div>
+      </div>
      <div class="carousel-item">
+      <div class="text-center"><h1>${carrousel[1].titulo}</h1><p>${carrousel[1].descricao}</p></div>
+      <a href="detalhes.html?id=1"><img class="d-block w-100" src="${carrousel[1].imagem}" alt="${carrousel[1].titulo}"></a>
 
-       <a href="detalhes.html?id=1"><img class="d-block w-100" src="${carrousel[1].imagem}" alt="${carrousel[1].titulo}"></a>
     </div>
     <div class="carousel-item">
-        <a href="detalhes.html?id=0"><img class="d-block w-100" src="${carrousel[2].imagem}" alt="${carrousel[2].titulo}"></a>
+      <div class="text-center"><h1>${carrousel[2].titulo}</h1><p>${carrousel[2].descricao}</p></div>
+      <a href="detalhes.html?id=0"><img class="d-block w-100" src="${carrousel[2].imagem}" alt="${carrousel[2].titulo}"></a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
